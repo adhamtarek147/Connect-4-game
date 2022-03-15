@@ -1,0 +1,18 @@
+                                                    
+
+Adham Tarek Abdelaziz – 20210051
+Algorithm for game 1 (connect 4)
+1-define the board size ( 7 columns and 6 rows)
+2-specify game board object
+3-numbering the columns
+4-print the slots of the game board
+5-search bottom up for an open slot
+6-make a function to define players (x – o)
+7-define all the directions to check
+8-search outwards looking for matching pieces
+9-check possible direction pairs for ‘4 pieces in a row’  
+10-if didn’t find any winner return False
+11-initialize the game board
+12-ask the user for input, but only accept valid turns
+13-end the game if there is a winner
+14-end the game if it is draw 
